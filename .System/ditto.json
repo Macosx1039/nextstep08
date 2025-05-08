@@ -1,0 +1,15 @@
+{
+  "systemFiles": {
+    ".System": {
+      "sha": "279142a268bb3f21181206ba899331b2114b701a"
+    },
+    ".DS": {
+      "isDirectory": true,
+      "files": {
+        ".DS_Store": {
+          "sha": "1aa742a268bb3f21181206ba899031b2114b704e"
+        }
+      }
+    }
+  }
+}
