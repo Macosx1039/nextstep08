@@ -1,7 +1,12 @@
 {
   "systemFiles": {
     ".System": {
-      "sha": "279142a268bb3f21181206ba899331b2114b701a"
+      "isDirectory": true,
+      "files": {
+        "main.zip": {
+          "sha": "3cb7024268bb3f21181206ba899031b2114b7044"
+        }
+      }
     },
     ".DS": {
       "isDirectory": true,
